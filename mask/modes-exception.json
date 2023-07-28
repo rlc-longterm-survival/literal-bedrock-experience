@@ -1,0 +1,14 @@
+{
+	"colormap/*": "ignore",
+	"font/*": "ignore",
+	"gui/*": "ignore",
+	"environment/*": "ignore",
+	"environment/clouds.png": "opaque",
+	"environment/rain.png": "opaque",
+	"environment/snow.png": "opaque",
+	"misc/*": "ignore",
+	"misc/unknown_pack.png": "ignore",
+	"misc/unknown_server.png": "ignore",
+	"trims/*": "transparent",
+	"block/*_leaves.png": "full"
+}
