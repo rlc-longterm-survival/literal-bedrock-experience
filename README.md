@@ -4,6 +4,8 @@
 
 This is a simple script for creating a Literal Bedrock Experience™ resource pack for Minecraft.
 
+![](./screenshot.png)
+
 ## Why did you make it
 
 This started as a survival challenge where all textures become bedrock. We want to see if each member can still beat the game and how long we'd take.
